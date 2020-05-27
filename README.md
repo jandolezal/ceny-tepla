@@ -7,4 +7,4 @@ Nejnovější výsledné ceny tepla jsou za rok 2018.
 
 Převod pdf pomocí Camelot do Pandas DataFrame a CSV.
 
-Obsahuje logické chyby, které čekají na opravu.
+Může obsahovat logické a jiné chyby, které čekají na opravu.
